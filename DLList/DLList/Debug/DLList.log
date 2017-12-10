@@ -1,0 +1,4 @@
+﻿  DLList.c
+f:\办公\数据结构\dllist\dllist\dllist.c(8): warning C4013: “printf”未定义；假设外部返回 int
+  DLList.vcxproj -> F:\办公\数据结构\DLList\Debug\DLList.exe
+  DLList.vcxproj -> F:\办公\数据结构\DLList\Debug\DLList.pdb (Full PDB)

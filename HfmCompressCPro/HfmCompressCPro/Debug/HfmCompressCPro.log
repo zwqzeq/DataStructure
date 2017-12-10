@@ -1,0 +1,16 @@
+﻿Build started 2017-12-06-星期三 10:36:08.
+     1>Project "G:\数据结构\HfmCompressCPro\HfmCompressCPro\HfmCompressCPro.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HfmCompressCPro.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         f:\win10Program2\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Huffman.cpp
+         Huffman.cpp
+     1>g:\数据结构\hfmcompresscpro\hfmcompresscpro\huffman.cpp(61): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>g:\数据结构\hfmcompresscpro\hfmcompresscpro\huffman.cpp(118): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>g:\数据结构\hfmcompresscpro\hfmcompresscpro\huffman.cpp(155): error C2065: 'i' : undeclared identifier
+     1>Done Building Project "G:\数据结构\HfmCompressCPro\HfmCompressCPro\HfmCompressCPro.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.80

@@ -1,0 +1,8 @@
+﻿  2-20.c
+e:\数据结构\2-20\2-20\2-20.c(26): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(38): warning C4133: “=”: 从“SLNode *”到“Node *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(48): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(62): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(82): warning C4013: “ListInset”未定义；假设外部返回 int
+2-20.obj : error LNK2019: 无法解析的外部符号 _ListInset，该符号在函数 _main 中被引用
+E:\数据结构\2-20\Debug\2-20.exe : fatal error LNK1120: 1 个无法解析的外部命令

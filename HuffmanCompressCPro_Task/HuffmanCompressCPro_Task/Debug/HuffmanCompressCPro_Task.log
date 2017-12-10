@@ -1,0 +1,67 @@
+﻿Build started 2017-12-10-星期日 19:29:40.
+     1>Project "G:\数据结构\HuffmanCompressCPro_Task\HuffmanCompressCPro_Task\HuffmanCompressCPro_Task.vcxproj" on node 2 (rebuild target(s)).
+     1>PrepareForBuild:
+         Creating directory "G:\数据结构\HuffmanCompressCPro_Task\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\HuffmanCompressCPro_Task.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         f:\win10Program2\VS2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt App.c compress.c Huffman.c
+         Huffman.c
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\huffman.c(95): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\huffman.c(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\string.h(105) : see declaration of 'strcpy'
+         compress.c
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(20): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(21): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(22): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\string.h(110) : see declaration of 'strcat'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(23): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(128): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(131): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(141): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\compress.c(142): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(234) : see declaration of 'fopen'
+         App.c
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\app.c(24): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>g:\数据结构\huffmancompresscpro_task\huffmancompresscpro_task\app.c(35): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\win10program2\vs2010\vc\include\stdio.h(304) : see declaration of 'scanf'
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HuffmanCompressCPro_Task.exe.embed.manifest.res" Debug\HuffmanCompressCPro_Task_manifest.rc 
+       Link:
+         f:\win10Program2\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HuffmanCompressCPro_Task.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.lib" /MACHINE:X86 Debug\HuffmanCompressCPro_Task.exe.embed.manifest.res
+         Debug\App.obj
+         Debug\compress.obj
+         Debug\Huffman.obj
+       Manifest:
+         Deleting file "Debug\HuffmanCompressCPro_Task.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HuffmanCompressCPro_Task.exe.embed.manifest" /manifest Debug\HuffmanCompressCPro_Task.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HuffmanCompressCPro_Task.exe.embed.manifest.res" Debug\HuffmanCompressCPro_Task_manifest.rc 
+       LinkEmbedManifest:
+         f:\win10Program2\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HuffmanCompressCPro_Task.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.lib" /MACHINE:X86 Debug\HuffmanCompressCPro_Task.exe.embed.manifest.res
+         Debug\App.obj
+         Debug\compress.obj
+         Debug\Huffman.obj
+         HuffmanCompressCPro_Task.vcxproj -> G:\数据结构\HuffmanCompressCPro_Task\Debug\HuffmanCompressCPro_Task.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HuffmanCompressCPro_Task.unsuccessfulbuild".
+         Touching "Debug\HuffmanCompressCPro_Task.lastbuildstate".
+     1>Done Building Project "G:\数据结构\HuffmanCompressCPro_Task\HuffmanCompressCPro_Task\HuffmanCompressCPro_Task.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.98

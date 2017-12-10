@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Sequlist.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  seqlist.c
+e:\数据结构\sequlist\sequlist\seqlist.c(22): warning C4716: “InitList”: 必须返回一个值
+e:\数据结构\sequlist\sequlist\seqlist.c(81): warning C4715: “ListGet”: 不是所有的控件路径都返回值
+  Sequlist.vcxproj -> E:\数据结构\Sequlist\Debug\Seqlist.exe
+  Sequlist.vcxproj -> E:\数据结构\Sequlist\Debug\Seqlist.pdb (Full PDB)

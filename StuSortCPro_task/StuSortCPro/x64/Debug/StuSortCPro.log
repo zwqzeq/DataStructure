@@ -1,0 +1,6 @@
+﻿  service.c
+  main.c
+e:\数据结构\stusortcpro_task\stusortcpro\main.c(72): warning C4098: “deleteStu”:“void”函数返回值
+  正在生成代码...
+  StuSortCPro.vcxproj -> E:\数据结构\StuSortCPro_task\x64\Debug\StuSortCPro.exe
+  StuSortCPro.vcxproj -> E:\数据结构\StuSortCPro_task\x64\Debug\StuSortCPro.pdb (Full PDB)

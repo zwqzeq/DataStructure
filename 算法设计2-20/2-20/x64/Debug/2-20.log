@@ -1,0 +1,7 @@
+﻿  2-20.c
+e:\数据结构\2-20\2-20\2-20.c(26): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(38): warning C4133: “=”: 从“SLNode *”到“Node *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(48): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+e:\数据结构\2-20\2-20\2-20.c(62): warning C4133: “=”: 从“Node *”到“SLNode *”的类型不兼容
+  2-20.vcxproj -> E:\数据结构\2-20\x64\Debug\2-20.exe
+  2-20.vcxproj -> E:\数据结构\2-20\x64\Debug\2-20.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  service.c
+  main.c
+e:\数据结构\stusortcpro_task\stusortcpro\main.c(32): warning C4013: “traverseLise”未定义；假设外部返回 int
+e:\数据结构\stusortcpro_task\stusortcpro\main.c(32): warning C4047: “=”:“Student *”与“int”的间接级别不同
+e:\数据结构\stusortcpro_task\stusortcpro\main.c(72): warning C4098: “deleteStu”:“void”函数返回值
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 _traverseLise，该符号在函数 _displayStu 中被引用
+E:\数据结构\StuSortCPro_task\Debug\StuSortCPro.exe : fatal error LNK1120: 1 个无法解析的外部命令
